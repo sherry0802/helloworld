@@ -5,7 +5,6 @@ Stuart Rackham <srackham@gmail.com>
 :toc:
 :icons:
 :numbered:
-:website: http://asciidoc.org/
 
 AsciiDoc is a text document format for writing notes, documentation,
 articles, books, ebooks, slideshows, web pages, blogs and UNIX man
